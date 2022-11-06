@@ -1,7 +1,7 @@
 # # **kodluyoruzilkrepo**
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![]([https://resmim.net/cdn/2022/11/01/QhgsI.png](https://avatars.githubusercontent.com/u/30476529?s=200&v=)
+![]([https://resmim.net/cdn/2022/11/01/QhgsI.png](https://avatars.githubusercontent.com/u/30476529?s=200&v=])
 
 -----------------------------------------------
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor
